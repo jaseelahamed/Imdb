@@ -1,0 +1,49 @@
+.form-control {
+    width: 800px;
+
+}
+.im1{
+    width: 100px;
+    height: 50px;
+}
+
+
+#wh{
+    font-family:'Courier New', Courier, monospace;
+    width: px;
+    color: white;
+}
+#bt1{
+    background-color:#0a0701;
+    color: white;
+}
+#me{
+    color: black;
+}
+#menu{
+    color:white;
+}
+#fo{
+    width:100%;
+}
+.nav-item{
+    margin-left: 450px;
+}
+#lgo{
+    /* margin-left: 1350px; */
+    border-radius: 10%;
+    margin-left: 20px;
+    background-color:#070601;
+    color: white;
+}
+#nav{
+    background: #0e0231;
+    
+}
+#lgo:hover{
+ background-color: rgb(224, 37, 4);
+  
+    }
+    #bt1:hover{
+        background-color: rgb(27, 169, 27);
+    }
